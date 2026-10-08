@@ -1,3 +1,3 @@
-# ICS34U
+# Voyage au centre de l'ordinateur: Le Tour de l'unité centrale en 8 pages!
 
-Ceci est un dossier qui contient mes projets d'informatique dans le cours ICS4U.
+En rédigeant ce projet, j'ai eu l'idée d'en faire une série peu inspirée des œuvres de Jules Verne. Elle a pour but d'offrir une source fiable en compilant de l'information sur les composantes internes de l'ordinateur. Ça en vaut de la peine d'y visiter!
